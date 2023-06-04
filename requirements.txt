@@ -1,8 +1,10 @@
+setuptools
 ffmpeg-python
 Flask
 Flask_Cors
 gradio>=3.7.0
 numpy==1.23.5
+numba
 pyworld
 scipy==1.10.0
 SoundFile==0.12.1
@@ -24,4 +26,5 @@ edge_tts
 pyyaml
 pynvml
 ffmpeg
-faiss-cpu
+pyloudnorm
+faiss-gpu
