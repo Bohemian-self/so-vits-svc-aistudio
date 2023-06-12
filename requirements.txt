@@ -3,7 +3,7 @@ ffmpeg-python
 Flask
 Flask_Cors
 gradio>=3.7.0
-numpy==1.23.5
+numpy==1.15.0
 numba
 pyworld
 scipy==1.10.0
